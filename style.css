@@ -1,0 +1,44 @@
+
+body {
+    background-image: url(./assets/map.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Spartan', sans-serif;
+  }
+
+h1 {
+    background-color: rgba(250, 14, 14, 0.76);
+    text-align: center;
+    padding: 15px;
+}
+h2 {
+    text-align: center;
+}
+
+fieldset {
+    align-items: center;
+    padding: 25px;
+}
+
+legend{
+    color: white;
+} 
+
+
+
+.mb-3{
+
+text-align: center;
+
+}
+
+.container-md   {
+    /* ng: 5px;paddi */
+    color: black;
+    background-color: rgba(14, 124, 250, 0.3);
+    z-index: 1;  
+    
+};
+
+
+
